@@ -1,0 +1,821 @@
+{
+    "2010": {
+        "Afghanistan_PROPN": [
+            "Taliban_PROPN"
+        ],
+        "Algeria_PROPN": [],
+        "Angola_PROPN": [],
+        "Azerbaijan_PROPN": [],
+        "Bangladesh_PROPN": [],
+        "Burundi_PROPN": [],
+        "Cameroon_PROPN": [],
+        "Chad_NOUN": [],
+        "Colombia_PROPN": [
+            "Farc_PROPN"
+        ],
+        "Congo_PROPN": [],
+        "Ethiopia_PROPN": [],
+        "India_PROPN": [
+            "Kashmiri_PROPN",
+            "Ulfa_PROPN",
+            "CPI-M_INTJ"
+        ],
+        "Iran_PROPN": [
+            "Jundullah_PROPN"
+        ],
+        "Iraq_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Kenya_PROPN": [],
+        "Lebanon_PROPN": [],
+        "Libya_PROPN": [],
+        "Malaysia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mozambique_PROPN": [],
+        "Myanmar_PROPN": [],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "TTP_PROPN"
+        ],
+        "Philippine_NOUN": [
+            "Sayyaf_NOUN",
+            "CPP_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "Fdlr_PROPN"
+        ],
+        "Somalia_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Sudan_PROPN": [],
+        "Tajikistan_PROPN": [
+            "Imu_NOUN"
+        ],
+        "Tunisia_PROPN": [],
+        "Turkey_PROPN": [
+            "Pkk_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lra_PROPN"
+        ],
+        "Ukraine_PROPN": [],
+        "Usa_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Yemen_PROPN": [
+            "AQAP_PROPN"
+        ],
+        "central::african:Republic_PROPN": [],
+        "egypt_PROPN": [],
+        "israel_PROPN": [],
+        "jordan_PROPN": [],
+        "russia_PROPN": [
+            "Chechen_PROPN"
+        ],
+        "syria_PROPN": []
+    },
+    "2011": {
+        "Afghanistan_PROPN": [
+            "Taliban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_INTJ"
+        ],
+        "Angola_PROPN": [],
+        "Azerbaijan_PROPN": [],
+        "Bangladesh_PROPN": [],
+        "Burundi_PROPN": [],
+        "Cameroon_PROPN": [],
+        "Chad_NOUN": [],
+        "Colombia_PROPN": [
+            "Farc_PROPN"
+        ],
+        "Congo_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_NOUN"
+        ],
+        "India_PROPN": [
+            "Kashmiri_PROPN",
+            "Cpi-m_PROPN"
+        ],
+        "Iran_PROPN": [],
+        "Iraq_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Kenya_PROPN": [],
+        "Lebanon_PROPN": [],
+        "Libya_PROPN": [
+            "pro-Gaddafi_ADJ",
+            "Ntc_PROPN"
+        ],
+        "Malaysia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [
+            "AQIM_INTJ"
+        ],
+        "Mozambique_PROPN": [],
+        "Myanmar_PROPN": [],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "TTP_PROPN"
+        ],
+        "Philippine_NOUN": [
+            "Sayyaf_NOUN",
+            "MILF_NOUN",
+            "CPP_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "Fdlr_PROPN"
+        ],
+        "Somalia_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "South::Sudan_PROPN",
+            "Splm_PROPN"
+        ],
+        "Tajikistan_PROPN": [
+            "Imu_NOUN"
+        ],
+        "Tunisia_PROPN": [],
+        "Turkey_PROPN": [
+            "Pkk_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lra_PROPN"
+        ],
+        "Ukraine_PROPN": [],
+        "Usa_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Yemen_PROPN": [
+            "AQAP_PROPN"
+        ],
+        "central::african:Republic_PROPN": [],
+        "egypt_PROPN": [],
+        "israel_PROPN": [
+            "Hamas_PROPN"
+        ],
+        "jordan_PROPN": [],
+        "russia_PROPN": [
+            "Chechen_PROPN"
+        ],
+        "syria_PROPN": [
+            "Syrians_NOUN"
+        ]
+    },
+    "2012": {
+        "Afghanistan_PROPN": [
+            "Taliban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_INTJ"
+        ],
+        "Angola_PROPN": [],
+        "Azerbaijan_PROPN": [
+            "Nagorno-Karabakh_PROPN"
+        ],
+        "Bangladesh_PROPN": [],
+        "Burundi_PROPN": [],
+        "Cameroon_PROPN": [],
+        "Chad_NOUN": [],
+        "Colombia_PROPN": [
+            "Farc_PROPN"
+        ],
+        "Congo_PROPN": [
+            "m23_NOUN"
+        ],
+        "Ethiopia_PROPN": [],
+        "India_PROPN": [
+            "Kashmiri_PROPN",
+            "Cpi-m_PROPN"
+        ],
+        "Iran_PROPN": [],
+        "Iraq_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Kenya_PROPN": [],
+        "Lebanon_PROPN": [],
+        "Libya_PROPN": [],
+        "Malaysia_PROPN": [],
+        "Mali_PROPN": [
+            "Cma_PROPN",
+            "Ansar::Dine_PROPN"
+        ],
+        "Mauritania_PROPN": [],
+        "Mozambique_PROPN": [],
+        "Myanmar_PROPN": [
+            "Kia_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "Bla_PROPN",
+            "Bra_PROPN",
+            "TTP_PROPN"
+        ],
+        "Philippine_NOUN": [
+            "ASG_PROPN",
+            "CPP_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "Fdlr_PROPN"
+        ],
+        "Somalia_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Sudan_PROPN": [],
+        "Tajikistan_PROPN": [],
+        "Tunisia_PROPN": [],
+        "Turkey_PROPN": [
+            "Pkk_PROPN"
+        ],
+        "Uganda_PROPN": [],
+        "Ukraine_PROPN": [],
+        "Usa_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Yemen_PROPN": [
+            "AQAP_PROPN"
+        ],
+        "central::african:Republic_PROPN": [],
+        "egypt_PROPN": [],
+        "israel_PROPN": [
+            "Hamas_PROPN"
+        ],
+        "jordan_PROPN": [],
+        "russia_PROPN": [
+            "Chechen_PROPN"
+        ],
+        "syria_PROPN": [
+            "Syrians_NOUN",
+            "PYD_PROPN"
+        ]
+    },
+    "2013": {
+        "Afghanistan_PROPN": [
+            "Taliban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_INTJ"
+        ],
+        "Angola_PROPN": [],
+        "Azerbaijan_PROPN": [],
+        "Bangladesh_PROPN": [],
+        "Burundi_PROPN": [],
+        "Cameroon_PROPN": [],
+        "Chad_NOUN": [],
+        "Colombia_PROPN": [
+            "Eln_PROPN",
+            "Farc_PROPN"
+        ],
+        "Congo_PROPN": [
+            "Katanga_PROPN",
+            "m23_NOUN"
+        ],
+        "Ethiopia_PROPN": [],
+        "India_PROPN": [
+            "Kashmiri_PROPN",
+            "Cpi-m_PROPN"
+        ],
+        "Iran_PROPN": [],
+        "Iraq_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Kenya_PROPN": [],
+        "Lebanon_PROPN": [],
+        "Libya_PROPN": [],
+        "Malaysia_PROPN": [
+            "Sulu_NOUN"
+        ],
+        "Mali_PROPN": [
+            "AQIM_INTJ",
+            "Ansar::Dine_PROPN",
+            "Mujao_PROPN"
+        ],
+        "Mauritania_PROPN": [],
+        "Mozambique_PROPN": [
+            "Renamo_PROPN"
+        ],
+        "Myanmar_PROPN": [
+            "Kia_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "TTP_PROPN",
+            "Bla_PROPN"
+        ],
+        "Philippine_NOUN": [
+            "ASG_PROPN",
+            "MNLF_NOUN",
+            "CPP_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Somalia_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "SRF_NOUN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Tunisia_PROPN": [],
+        "Turkey_PROPN": [
+            "Pkk_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Adf_PROPN",
+            "Lra_PROPN"
+        ],
+        "Ukraine_PROPN": [],
+        "Usa_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Yemen_PROPN": [
+            "AQAP_PROPN"
+        ],
+        "central::african:Republic_PROPN": [
+            "anti-balaka_NOUN",
+            "Seleka_PROPN"
+        ],
+        "egypt_PROPN": [],
+        "israel_PROPN": [],
+        "jordan_PROPN": [],
+        "russia_PROPN": [
+            "Chechen_PROPN"
+        ],
+        "syria_PROPN": [
+            "PYD_PROPN",
+            "Islamic::state_PROPN",
+            "Syrians_NOUN"
+        ]
+    },
+    "2014": {
+        "Afghanistan_PROPN": [
+            "Taliban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_INTJ"
+        ],
+        "Angola_PROPN": [],
+        "Azerbaijan_PROPN": [
+            "Nagorno-Karabakh_PROPN"
+        ],
+        "Bangladesh_PROPN": [],
+        "Burundi_PROPN": [],
+        "Cameroon_PROPN": [],
+        "Chad_NOUN": [],
+        "Colombia_PROPN": [
+            "Farc_PROPN"
+        ],
+        "Congo_PROPN": [
+            "Katanga_PROPN"
+        ],
+        "Ethiopia_PROPN": [],
+        "India_PROPN": [
+            "Kashmiri_PROPN",
+            "Cpi-m_PROPN",
+            "Ndfb(_NOUN"
+        ],
+        "Iran_PROPN": [],
+        "Iraq_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Kenya_PROPN": [],
+        "Lebanon_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Libya_PROPN": [
+            "Zintan_PROPN"
+        ],
+        "Malaysia_PROPN": [],
+        "Mali_PROPN": [
+            "Cma_PROPN",
+            "AQIM_INTJ"
+        ],
+        "Mauritania_PROPN": [],
+        "Mozambique_PROPN": [],
+        "Myanmar_PROPN": [
+            "Kia_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "Imu_NOUN",
+            "TTP_PROPN",
+            "Bla_PROPN",
+            "Bra_PROPN"
+        ],
+        "Philippine_NOUN": [
+            "CPP_PROPN",
+            "ASG_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Somalia_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Srf_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Tunisia_PROPN": [],
+        "Turkey_PROPN": [],
+        "Uganda_PROPN": [
+            "Adf_PROPN",
+            "Lra_PROPN"
+        ],
+        "Ukraine_PROPN": [
+            "Novorossiya_PROPN",
+            "Luhansk_PROPN",
+            "Donetsk_PROPN",
+            "Maidan_PROPN"
+        ],
+        "Usa_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Yemen_PROPN": [
+            "AQAP_PROPN"
+        ],
+        "central::african:Republic_PROPN": [],
+        "egypt_PROPN": [
+            "al-Maqdis_PROPN"
+        ],
+        "israel_PROPN": [
+            "Hamas_PROPN"
+        ],
+        "jordan_PROPN": [],
+        "russia_PROPN": [
+            "Chechen_PROPN"
+        ],
+        "syria_PROPN": [
+            "Syrians_NOUN",
+            "Islamic::state_PROPN"
+        ]
+    },
+    "2015": {
+        "Afghanistan_PROPN": [
+            "Taliban_PROPN",
+            "Islamic::state_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "Islamic::state_PROPN",
+            "AQIM_INTJ"
+        ],
+        "Angola_PROPN": [],
+        "Azerbaijan_PROPN": [
+            "Nagorno-Karabakh_PROPN"
+        ],
+        "Bangladesh_PROPN": [],
+        "Burundi_PROPN": [
+            "FPB_PROPN",
+            "Niyombare_NOUN"
+        ],
+        "Cameroon_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Chad_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Colombia_PROPN": [
+            "Eln_PROPN",
+            "Farc_PROPN"
+        ],
+        "Congo_PROPN": [],
+        "Ethiopia_PROPN": [],
+        "India_PROPN": [
+            "Cpi-m_PROPN",
+            "Kashmiri_PROPN"
+        ],
+        "Iran_PROPN": [],
+        "Iraq_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Kenya_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Lebanon_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Libya_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Malaysia_PROPN": [],
+        "Mali_PROPN": [
+            "AQIM_INTJ",
+            "Ansar::Dine_PROPN",
+            "Cma_PROPN"
+        ],
+        "Mauritania_PROPN": [],
+        "Mozambique_PROPN": [],
+        "Myanmar_PROPN": [
+            "Kia_PROPN"
+        ],
+        "Niger_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Nigeria_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Pakistan_PROPN": [
+            "Bla_PROPN",
+            "Bra_PROPN",
+            "TTP_PROPN"
+        ],
+        "Philippine_NOUN": [
+            "CPP_PROPN",
+            "ASG_PROPN",
+            "Milf_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Somalia_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Srf_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Tunisia_PROPN": [],
+        "Turkey_PROPN": [
+            "Islamic::state_PROPN",
+            "Pkk_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Adf_PROPN"
+        ],
+        "Ukraine_PROPN": [
+            "Novorossiya_PROPN",
+            "Luhansk_PROPN",
+            "Donetsk_PROPN"
+        ],
+        "Usa_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Yemen_PROPN": [
+            "AQAP_PROPN",
+            "Hadi_PROPN",
+            "Ansar::Allah_PROPN",
+            "Islamic::state_PROPN"
+        ],
+        "central::african:Republic_PROPN": [],
+        "egypt_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "israel_PROPN": [],
+        "jordan_PROPN": [],
+        "russia_PROPN": [
+            "Chechen_PROPN",
+            "Islamic::state_PROPN"
+        ],
+        "syria_PROPN": [
+            "Syrians_NOUN",
+            "Islamic::state_PROPN",
+            "PYD_PROPN"
+        ]
+    },
+    "2016": {
+        "Afghanistan_PROPN": [
+            "Islamic::state_PROPN",
+            "Taliban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_INTJ"
+        ],
+        "Angola_PROPN": [],
+        "Azerbaijan_PROPN": [
+            "Nagorno-Karabakh_PROPN"
+        ],
+        "Bangladesh_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Burundi_PROPN": [],
+        "Cameroon_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Chad_NOUN": [],
+        "Colombia_PROPN": [
+            "Eln_PROPN"
+        ],
+        "Congo_PROPN": [],
+        "Ethiopia_PROPN": [],
+        "India_PROPN": [
+            "UNLF_NOUN",
+            "Kashmiri_PROPN",
+            "Cpi-m_PROPN"
+        ],
+        "Iran_PROPN": [
+            "Kurds_PROPN"
+        ],
+        "Iraq_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Kenya_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Lebanon_PROPN": [],
+        "Libya_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Malaysia_PROPN": [],
+        "Mali_PROPN": [
+            "AQIM_INTJ",
+            "Ansar::Dine_PROPN"
+        ],
+        "Mauritania_PROPN": [],
+        "Mozambique_PROPN": [
+            "Renamo_PROPN"
+        ],
+        "Myanmar_PROPN": [
+            "Kia_PROPN",
+            "Rohingya::Muslim_PROPN"
+        ],
+        "Niger_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Nigeria_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Pakistan_PROPN": [
+            "Islamic::state_PROPN",
+            "Bla_PROPN",
+            "Uba_PROPN",
+            "TTP_PROPN"
+        ],
+        "Philippine_NOUN": [
+            "Islamic::state_PROPN",
+            "ASG_PROPN",
+            "Maute_PROPN",
+            "CPP_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "Fdlr_PROPN"
+        ],
+        "Somalia_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Srf_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Tunisia_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Turkey_PROPN": [
+            "Islamic::state_PROPN",
+            "Pkk_PROPN",
+            "Tak_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Adf_PROPN"
+        ],
+        "Ukraine_PROPN": [
+            "Luhansk_PROPN",
+            "Donetsk_PROPN"
+        ],
+        "Usa_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Yemen_PROPN": [
+            "Hadi_PROPN"
+        ],
+        "central::african:Republic_PROPN": [],
+        "egypt_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "israel_PROPN": [],
+        "jordan_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "russia_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "syria_PROPN": [
+            "Sdf_PROPN",
+            "Islamic::state_PROPN",
+            "Syrians_NOUN"
+        ]
+    },
+    "2017": {
+        "Afghanistan_PROPN": [
+            "Taliban_PROPN",
+            "Islamic::state_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_INTJ"
+        ],
+        "Angola_PROPN": [
+            "Cabinda_PROPN"
+        ],
+        "Azerbaijan_PROPN": [
+            "Nagorno-Karabakh_PROPN"
+        ],
+        "Bangladesh_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Burundi_PROPN": [],
+        "Cameroon_PROPN": [],
+        "Chad_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Colombia_PROPN": [],
+        "Congo_PROPN": [
+            "Nsapu_NOUN",
+            "m23_NOUN",
+            "Cmc_PROPN",
+            "Mnr_PROPN",
+            "Bdk_PROPN"
+        ],
+        "Ethiopia_PROPN": [],
+        "India_PROPN": [
+            "Cpi-m_PROPN",
+            "Unlfw_PROPN",
+            "Kashmiri_PROPN"
+        ],
+        "Iran_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Iraq_NOUN": [
+            "Islamic::state_PROPN"
+        ],
+        "Kenya_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Lebanon_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Libya_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Malaysia_PROPN": [],
+        "Mali_PROPN": [
+            "Islamic::state_PROPN",
+            "AQIM_INTJ"
+        ],
+        "Mauritania_PROPN": [],
+        "Mozambique_PROPN": [],
+        "Myanmar_PROPN": [
+            "Arsa_PROPN",
+            "Kia_PROPN",
+            "Mndaa_PROPN"
+        ],
+        "Niger_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Nigeria_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "Pakistan_PROPN": [
+            "Islamic::state_PROPN",
+            "TTP_PROPN"
+        ],
+        "Philippine_NOUN": [
+            "CPP_PROPN",
+            "Islamic::state_PROPN",
+            "ASG_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Somalia_PROPN": [
+            "al-Shabaab_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Srf_PROPN",
+            "Sarc_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Tunisia_PROPN": [],
+        "Turkey_PROPN": [
+            "Islamic::state_PROPN",
+            "Pkk_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Adf_PROPN"
+        ],
+        "Ukraine_PROPN": [
+            "Luhansk_PROPN",
+            "Donetsk_PROPN"
+        ],
+        "Usa_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Yemen_PROPN": [
+            "Hadi_PROPN"
+        ],
+        "central::african:Republic_PROPN": [],
+        "egypt_PROPN": [
+            "Islamic::state_PROPN",
+            "Ansar::al-Islam_PROPN",
+            "Hasm_PROPN"
+        ],
+        "israel_PROPN": [],
+        "jordan_PROPN": [],
+        "russia_PROPN": [
+            "Islamic::state_PROPN"
+        ],
+        "syria_PROPN": [
+            "Islamic::state_PROPN",
+            "Syrians_NOUN"
+        ]
+    }
+}

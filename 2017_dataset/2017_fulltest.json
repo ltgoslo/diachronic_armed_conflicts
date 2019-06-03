@@ -1,0 +1,1989 @@
+{
+    "1994": {
+        "Afghanistan_PROPN": [
+            "Hizb-e-Islami_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "GIA_PROPN",
+            "Armed::Islamic::Group_PROPN"
+        ],
+        "Angola_PROPN": [
+            "UNITA_PROPN",
+            "FLEC_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [
+            "Serbian_PROPN",
+            "Croatian_PROPN"
+        ],
+        "Burundi_PROPN": [
+            "CNDD_PROPN"
+        ],
+        "Cambodia_PROPN": [
+            "Khmer::Rouge_PROPN"
+        ],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [
+            "CNR_PROPN"
+        ],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [
+            "Jamaa::Islamiyya_PROPN"
+        ],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [
+            "URNG_PROPN"
+        ],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "ULFA_PROPN",
+            "NSCN_PROPN",
+            "People::'s::War::Group_PROPN",
+            "NDFB_PROPN",
+            "Kashmir::Liberation::Front_PROPN"
+        ],
+        "Indonesia_PROPN": [],
+        "Iran_PROPN": [],
+        "Iraq_PROPN": [
+            "SCIRI_PROPN"
+        ],
+        "Israel_PROPN": [
+            "Hezbollah_PROPN",
+            "Hamas_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [
+            "EZLN_PROPN"
+        ],
+        "Myanmar_PROPN": [
+            "ABSDF_PROPN",
+            "Karen::National::Union_PROPN",
+            "Mong::Tai::Army_PROPN"
+        ],
+        "Nepal_PROPN": [],
+        "Niger_PROPN": [
+            "CRA_PROPN"
+        ],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "MQM_PROPN"
+        ],
+        "Papua::New::Guinea_PROPN": [
+            "Bougainville::Revolutionary::Army_PROPN"
+        ],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "Rwanda::Patriotic::Front_PROPN"
+        ],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [
+            "Revolutionary::United::Front_PROPN"
+        ],
+        "Somalia_PROPN": [
+            "USC/SNA_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [
+            "United::Tajik::Opposition_PROPN"
+        ],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": []
+    },
+    "1995": {
+        "Afghanistan_PROPN": [
+            "Hizb-e-Islami_PROPN",
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "GIA_PROPN",
+            "Armed::Islamic::Group_PROPN"
+        ],
+        "Angola_PROPN": [
+            "UNITA_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [
+            "Serbian_PROPN"
+        ],
+        "Burundi_PROPN": [
+            "CNDD_PROPN"
+        ],
+        "Cambodia_PROPN": [
+            "Khmer::Rouge_PROPN"
+        ],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [],
+        "Croatia_PROPN": [
+            "Krajina_PROPN"
+        ],
+        "Egypt_PROPN": [
+            "Jamaa::Islamiyya_PROPN"
+        ],
+        "Ethiopia_PROPN": [
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [
+            "URNG_PROPN"
+        ],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "ULFA_PROPN",
+            "People::'s::Liberation::Army_PROPN",
+            "NSCN_PROPN",
+            "Kashmir::Liberation::Front_PROPN"
+        ],
+        "Indonesia_PROPN": [],
+        "Iran_PROPN": [],
+        "Iraq_PROPN": [
+            "SCIRI_PROPN",
+            "Patriotic::Union::of::Kurdistan_PROPN"
+        ],
+        "Israel_PROPN": [
+            "Hezbollah_PROPN",
+            "PIJ_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN",
+            "Mong::Tai::Army_PROPN",
+            "NSCN_PROPN"
+        ],
+        "Nepal_PROPN": [],
+        "Niger_PROPN": [
+            "FDR_PROPN"
+        ],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "MQM_PROPN"
+        ],
+        "Papua::New::Guinea_PROPN": [
+            "Bougainville::Revolutionary::Army_PROPN"
+        ],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Senegal_PROPN": [
+            "MFDC_PROPN"
+        ],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [
+            "Revolutionary::United::Front_PROPN"
+        ],
+        "Somalia_PROPN": [
+            "USC/SNA_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [
+            "United::Tajik::Opposition_PROPN"
+        ],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": []
+    },
+    "1996": {
+        "Afghanistan_PROPN": [
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "GIA_PROPN",
+            "Armed::Islamic::Group_PROPN"
+        ],
+        "Angola_PROPN": [
+            "FLEC_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "CNDD_PROPN"
+        ],
+        "Cambodia_PROPN": [
+            "Khmer::Rouge_PROPN"
+        ],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [
+            "Alliance::of::Democratic::Forces::for::the::Liberation::of::Congo-Zaire_PROPN"
+        ],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [
+            "Jamaa::Islamiyya_PROPN"
+        ],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "People::'s::Liberation::Army_PROPN",
+            "Kashmir::Liberation::Front_PROPN",
+            "People::'s::War::Group_PROPN",
+            "NDFB_PROPN",
+            "ULFA_PROPN",
+            "NSCN_PROPN"
+        ],
+        "Indonesia_PROPN": [],
+        "Iran_PROPN": [],
+        "Iraq_PROPN": [
+            "SCIRI_PROPN",
+            "Patriotic::Union::of::Kurdistan_PROPN"
+        ],
+        "Israel_PROPN": [
+            "Hezbollah_PROPN",
+            "PNA_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [
+            "Popular::Revolutionary::Army_PROPN"
+        ],
+        "Myanmar_PROPN": [
+            "KNPP_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "MQM_PROPN"
+        ],
+        "Papua::New::Guinea_PROPN": [
+            "Bougainville::Revolutionary::Army_PROPN"
+        ],
+        "Philippines_PROPN": [
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "Interahamwe_PROPN"
+        ],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [
+            "Revolutionary::United::Front_PROPN"
+        ],
+        "Somalia_PROPN": [
+            "USC/SNA_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "National::Democratic::Alliance_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [
+            "United::Tajik::Opposition_PROPN"
+        ],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Allied::Democratic::Forces_PROPN",
+            "WNBF_PROPN",
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": [
+            "Alliance::of::Democratic::Forces::for::the::Liberation::of::Congo-Zaire_PROPN"
+        ]
+    },
+    "1997": {
+        "Afghanistan_PROPN": [],
+        "Algeria_PROPN": [
+            "GIA_PROPN",
+            "Armed::Islamic::Group_PROPN"
+        ],
+        "Angola_PROPN": [
+            "FLEC_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN",
+            "CNDD_PROPN",
+            "FLN_PROPN"
+        ],
+        "Cambodia_PROPN": [
+            "Khmer::Rouge_PROPN",
+            "FUNCINPEC_PROPN"
+        ],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [
+            "Anjouan_PROPN"
+        ],
+        "Congo_PROPN": [
+            "Cobras_PROPN",
+            "Alliance::of::Democratic::Forces::for::the::Liberation::of::Congo-Zaire_PROPN"
+        ],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [
+            "Jamaa::Islamiyya_PROPN"
+        ],
+        "Ethiopia_PROPN": [],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "Kashmir::Liberation::Front_PROPN",
+            "NLFT_PROPN",
+            "People::'s::War::Group_PROPN",
+            "NDFB_PROPN",
+            "ULFA_PROPN",
+            "NSCN_PROPN"
+        ],
+        "Indonesia_PROPN": [
+            "Fretilin_PROPN"
+        ],
+        "Iran_PROPN": [
+            "MKO_PROPN"
+        ],
+        "Iraq_PROPN": [],
+        "Israel_PROPN": [
+            "Hezbollah_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN",
+            "UWSA_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [],
+        "Rwanda_PROPN": [
+            "Interahamwe_PROPN"
+        ],
+        "Senegal_PROPN": [
+            "MFDC_PROPN"
+        ],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [
+            "AFRC_PROPN",
+            "Kamajors_PROPN",
+            "Revolutionary::United::Front_PROPN"
+        ],
+        "Somalia_PROPN": [],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "National::Democratic::Alliance_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Allied::Democratic::Forces_PROPN",
+            "Lord::'s::Resistance::Army_PROPN",
+            "UNRF_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": [
+            "Alliance::of::Democratic::Forces::for::the::Liberation::of::Congo-Zaire_PROPN"
+        ]
+    },
+    "1998": {
+        "Afghanistan_PROPN": [],
+        "Algeria_PROPN": [
+            "GIA_PROPN"
+        ],
+        "Angola_PROPN": [
+            "UNITA_PROPN",
+            "FLEC_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN",
+            "CNDD_PROPN"
+        ],
+        "Cambodia_PROPN": [
+            "Khmer::Rouge_PROPN"
+        ],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [
+            "Congolese::Rally::for::Democracy_PROPN",
+            "Movement::for::the::Liberation::of::Congo_PROPN",
+            "Ninjas_PROPN"
+        ],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [
+            "Jamaa::Islamiyya_PROPN"
+        ],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "ULFA_PROPN",
+            "People::'s::Liberation::Army_PROPN",
+            "People::'s::War::Group_PROPN",
+            "NDFB_PROPN",
+            "Kashmir::Liberation::Front_PROPN"
+        ],
+        "Indonesia_PROPN": [
+            "Fretilin_PROPN"
+        ],
+        "Iran_PROPN": [],
+        "Iraq_PROPN": [],
+        "Israel_PROPN": [
+            "Hezbollah_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [],
+        "Rwanda_PROPN": [
+            "Interahamwe_PROPN"
+        ],
+        "Senegal_PROPN": [
+            "MFDC_PROPN"
+        ],
+        "Serbia_PROPN": [
+            "Kosovo::Liberation::Army_PROPN"
+        ],
+        "Sierra::Leone_PROPN": [
+            "AFRC_PROPN",
+            "Kamajors_PROPN",
+            "Revolutionary::United::Front_PROPN"
+        ],
+        "Somalia_PROPN": [],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "National::Democratic::Alliance_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [
+            "United::Tajik::Opposition_PROPN"
+        ],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Allied::Democratic::Forces_PROPN",
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [
+            "Real::IRA_PROPN"
+        ],
+        "United::States::of::America_PROPN": [],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": [
+            "Congolese::Rally::for::Democracy_PROPN",
+            "Movement::for::the::Liberation::of::Congo_PROPN"
+        ]
+    },
+    "1999": {
+        "Afghanistan_PROPN": [],
+        "Algeria_PROPN": [
+            "AQIM_PROPN",
+            "GIA_PROPN"
+        ],
+        "Angola_PROPN": [
+            "UNITA_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN",
+            "CNDD_PROPN"
+        ],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [
+            "MDJT_PROPN"
+        ],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [
+            "Congolese::Rally::for::Democracy_PROPN",
+            "Movement::for::the::Liberation::of::Congo_PROPN",
+            "Ninjas_PROPN"
+        ],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "Kashmir::Liberation::Front_PROPN",
+            "NLFT_PROPN",
+            "People::'s::War::Group_PROPN",
+            "MCC_PROPN",
+            "NDFB_PROPN",
+            "ULFA_PROPN"
+        ],
+        "Indonesia_PROPN": [
+            "Fretilin_PROPN",
+            "Free::Aceh::Movement_PROPN"
+        ],
+        "Iran_PROPN": [
+            "MKO_PROPN"
+        ],
+        "Iraq_PROPN": [],
+        "Israel_PROPN": [
+            "Hezbollah_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN",
+            "Wahhabi_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "Interahamwe_PROPN"
+        ],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [
+            "Kosovo::Liberation::Army_PROPN"
+        ],
+        "Sierra::Leone_PROPN": [
+            "AFRC_PROPN",
+            "Revolutionary::United::Front_PROPN"
+        ],
+        "Somalia_PROPN": [],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "National::Democratic::Alliance_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Allied::Democratic::Forces_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [],
+        "Uzbekistan_PROPN": [
+            "Islamic::Movement::of::Uzbekistan_PROPN"
+        ],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": [
+            "Congolese::Rally::for::Democracy_PROPN",
+            "Movement::for::the::Liberation::of::Congo_PROPN"
+        ]
+    },
+    "2000": {
+        "Afghanistan_PROPN": [],
+        "Algeria_PROPN": [
+            "AQIM_PROPN",
+            "GIA_PROPN"
+        ],
+        "Angola_PROPN": [
+            "UNITA_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN",
+            "CNDD_PROPN"
+        ],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [
+            "MDJT_PROPN"
+        ],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [
+            "Congolese::Rally::for::Democracy_PROPN",
+            "Movement::for::the::Liberation::of::Congo_PROPN"
+        ],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [
+            "UFDG_PROPN"
+        ],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "CPI_PROPN",
+            "People::'s::Liberation::Army_PROPN",
+            "Kashmir::Liberation::Front_PROPN",
+            "NLFT_PROPN",
+            "People::'s::War::Group_PROPN",
+            "MCC_PROPN",
+            "ULFA_PROPN",
+            "NSCN_PROPN"
+        ],
+        "Indonesia_PROPN": [
+            "Free::Aceh::Movement_PROPN"
+        ],
+        "Iran_PROPN": [
+            "MKO_PROPN"
+        ],
+        "Iraq_PROPN": [],
+        "Israel_PROPN": [
+            "Fatah_PROPN",
+            "PNA_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [
+            "LURD_PROPN"
+        ],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN",
+            "NSCN_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "Interahamwe_PROPN"
+        ],
+        "Senegal_PROPN": [
+            "MFDC_PROPN"
+        ],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [
+            "Revolutionary::United::Front_PROPN",
+            "WSB_PROPN"
+        ],
+        "Somalia_PROPN": [],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "National::Democratic::Alliance_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Allied::Democratic::Forces_PROPN",
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [],
+        "Uzbekistan_PROPN": [
+            "Islamic::Movement::of::Uzbekistan_PROPN"
+        ],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": [
+            "Congolese::Rally::for::Democracy_PROPN",
+            "Movement::for::the::Liberation::of::Congo_PROPN"
+        ]
+    },
+    "2001": {
+        "Afghanistan_PROPN": [],
+        "Algeria_PROPN": [
+            "AQIM_PROPN",
+            "GIA_PROPN"
+        ],
+        "Angola_PROPN": [
+            "UNITA_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN",
+            "CNDD_PROPN"
+        ],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [
+            "Andre::Kolingba_PROPN"
+        ],
+        "Chad_PROPN": [
+            "MDJT_PROPN"
+        ],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [
+            "Congolese::Rally::for::Democracy_PROPN"
+        ],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [
+            "UFDG_PROPN"
+        ],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "Kashmir::Liberation::Front_PROPN",
+            "NLFT_PROPN",
+            "People::'s::War::Group_PROPN",
+            "MCC_PROPN",
+            "NDFB_PROPN",
+            "ULFA_PROPN"
+        ],
+        "Indonesia_PROPN": [
+            "Free::Aceh::Movement_PROPN"
+        ],
+        "Iran_PROPN": [
+            "MKO_PROPN"
+        ],
+        "Iraq_PROPN": [],
+        "Israel_PROPN": [
+            "Hamas_PROPN",
+            "Fatah_PROPN",
+            "PNA_PROPN",
+            "PFLP_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [
+            "LURD_PROPN"
+        ],
+        "Macedonia_PROPN": [
+            "Kosovo::Liberation::Army_PROPN"
+        ],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN",
+            "NSCN_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "MNLF_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "FDLR_PROPN"
+        ],
+        "Senegal_PROPN": [
+            "MFDC_PROPN"
+        ],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [
+            "Revolutionary::United::Front_PROPN"
+        ],
+        "Somalia_PROPN": [
+            "SRRC_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "National::Democratic::Alliance_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Allied::Democratic::Forces_PROPN",
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": [
+            "Congolese::Rally::for::Democracy_PROPN"
+        ]
+    },
+    "2002": {
+        "Afghanistan_PROPN": [
+            "Hizb-e-Islami_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_PROPN",
+            "GIA_PROPN"
+        ],
+        "Angola_PROPN": [
+            "UNITA_PROPN",
+            "FLEC_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN",
+            "CNDD_PROPN"
+        ],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [
+            "Francois::Bozize_PROPN"
+        ],
+        "Chad_PROPN": [
+            "MDJT_PROPN"
+        ],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "Kashmir::Liberation::Front_PROPN",
+            "NLFT_PROPN",
+            "People::'s::War::Group_PROPN",
+            "MCC_PROPN",
+            "NDFB_PROPN",
+            "ULFA_PROPN"
+        ],
+        "Indonesia_PROPN": [
+            "Free::Aceh::Movement_PROPN"
+        ],
+        "Iran_PROPN": [],
+        "Iraq_PROPN": [],
+        "Israel_PROPN": [
+            "Hamas_PROPN",
+            "Fatah_PROPN",
+            "PNA_PROPN",
+            "PIJ_PROPN",
+            "Al-Aqsa::Martyrs::Brigades_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [
+            "MPIGO_PROPN",
+            "MPCI_PROPN"
+        ],
+        "Liberia_PROPN": [
+            "LURD_PROPN"
+        ],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [
+            "FDLR_PROPN"
+        ],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [],
+        "Somalia_PROPN": [
+            "SRRC_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [],
+        "Sudan_PROPN": [
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Allied::Democratic::Forces_PROPN",
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": []
+    },
+    "2003": {
+        "Afghanistan_PROPN": [
+            "Hizb-e-Islami_PROPN",
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_PROPN",
+            "GIA_PROPN"
+        ],
+        "Angola_PROPN": [],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN",
+            "CNDD_PROPN"
+        ],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [
+            "MDJT_PROPN"
+        ],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "Kashmir::Liberation::Front_PROPN",
+            "NLFT_PROPN",
+            "People::'s::War::Group_PROPN",
+            "MCC_PROPN",
+            "NDFB_PROPN",
+            "ULFA_PROPN"
+        ],
+        "Indonesia_PROPN": [
+            "Free::Aceh::Movement_PROPN"
+        ],
+        "Iran_PROPN": [],
+        "Iraq_PROPN": [],
+        "Israel_PROPN": [
+            "PIJ_PROPN",
+            "Hamas_PROPN",
+            "Al-Aqsa::Martyrs::Brigades_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [
+            "MJP_PROPN",
+            "MPIGO_PROPN"
+        ],
+        "Liberia_PROPN": [
+            "MODEL_PROPN",
+            "LURD_PROPN"
+        ],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Senegal_PROPN": [
+            "MFDC_PROPN"
+        ],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [],
+        "Somalia_PROPN": [],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Justice::and::Equality::Movement_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": []
+    },
+    "2004": {
+        "Afghanistan_PROPN": [
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_PROPN"
+        ],
+        "Angola_PROPN": [
+            "FLEC_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN"
+        ],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "EPL_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [
+            "Lavalas_PROPN"
+        ],
+        "India_PROPN": [
+            "People::'s::Liberation::Army_PROPN",
+            "Kashmir::Liberation::Front_PROPN",
+            "NLFT_PROPN",
+            "NDFB_PROPN",
+            "MCC_PROPN",
+            "People::'s::War::Group_PROPN",
+            "ULFA_PROPN"
+        ],
+        "Indonesia_PROPN": [
+            "Free::Aceh::Movement_PROPN"
+        ],
+        "Iran_PROPN": [],
+        "Iraq_PROPN": [
+            "Ansar::al-Islam_PROPN",
+            "al-Mahdi::Army_PROPN",
+            "Islamic::State_PROPN"
+        ],
+        "Israel_PROPN": [
+            "PIJ_PROPN",
+            "Hamas_PROPN",
+            "Al-Aqsa::Martyrs::Brigades_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [
+            "NDPVF_PROPN"
+        ],
+        "Pakistan_PROPN": [
+            "Baluchistan::Liberation::Army_PROPN"
+        ],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [],
+        "Somalia_PROPN": [],
+        "Sri::Lanka_PROPN": [],
+        "Sudan_PROPN": [
+            "Justice::and::Equality::Movement_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": []
+    },
+    "2005": {
+        "Afghanistan_PROPN": [
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_PROPN"
+        ],
+        "Angola_PROPN": [],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN"
+        ],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "ULFA_PROPN",
+            "CPI-M_PROPN",
+            "Kashmir::Liberation::Front_PROPN"
+        ],
+        "Indonesia_PROPN": [
+            "Free::Aceh::Movement_PROPN"
+        ],
+        "Iran_PROPN": [
+            "PJAK_PROPN"
+        ],
+        "Iraq_PROPN": [
+            "Ansar::al-Islam_PROPN",
+            "Islamic::State_PROPN"
+        ],
+        "Israel_PROPN": [
+            "Hamas_PROPN",
+            "Fatah_PROPN",
+            "PIJ_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "KNPP_PROPN",
+            "Karen::National::Union_PROPN",
+            "NSCN_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "MNLF_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [],
+        "Somalia_PROPN": [],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": []
+    },
+    "2006": {
+        "Afghanistan_PROPN": [
+            "Hizb-e-Islami_PROPN",
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_PROPN"
+        ],
+        "Angola_PROPN": [],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN"
+        ],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [
+            "UFDD_PROPN"
+        ],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [
+            "CNDP_PROPN"
+        ],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "ULFA_PROPN",
+            "CPI-M_PROPN",
+            "People::'s::Liberation::Army_PROPN",
+            "Kashmir::Liberation::Front_PROPN"
+        ],
+        "Indonesia_PROPN": [],
+        "Iran_PROPN": [
+            "PJAK_PROPN"
+        ],
+        "Iraq_PROPN": [
+            "Ansar::al-Islam_PROPN",
+            "Islamic::State_PROPN"
+        ],
+        "Israel_PROPN": [
+            "Hezbollah_PROPN",
+            "Fatah_PROPN",
+            "PIJ_PROPN",
+            "Hamas_PROPN",
+            "Popular::Resistance::Committees_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN",
+            "NSCN_PROPN"
+        ],
+        "Nepal_PROPN": [
+            "CPN-M_PROPN"
+        ],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "Balochistan_PROPN",
+            "Baluchistan::Liberation::Army_PROPN"
+        ],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [],
+        "Somalia_PROPN": [
+            "Union::of::Islamic::Courts_PROPN",
+            "ARS_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "NRF_PROPN",
+            "Sudan::Liberation::Movement_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": [
+            "CNDP_PROPN"
+        ]
+    },
+    "2007": {
+        "Afghanistan_PROPN": [
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_PROPN"
+        ],
+        "Angola_PROPN": [
+            "FLEC_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [
+            "UFDD_PROPN"
+        ],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [
+            "CNDP_PROPN"
+        ],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "ULFA_PROPN",
+            "CPI-M_PROPN",
+            "Kashmir::Liberation::Front_PROPN"
+        ],
+        "Indonesia_PROPN": [],
+        "Iran_PROPN": [
+            "PJAK_PROPN"
+        ],
+        "Iraq_PROPN": [
+            "Ansar::al-Islam_PROPN",
+            "al-Mahdi::Army_PROPN",
+            "Islamic::State_PROPN"
+        ],
+        "Israel_PROPN": [
+            "Hamas_PROPN",
+            "Fatah_PROPN",
+            "PIJ_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN",
+            "NSCN_PROPN"
+        ],
+        "Nepal_PROPN": [],
+        "Niger_PROPN": [
+            "MNJ_PROPN"
+        ],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "Tehrik-e-Taliban_PROPN",
+            "Baluchistan::Liberation::Army_PROPN"
+        ],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "MNLF_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [
+            "Chechens_PROPN"
+        ],
+        "Rwanda_PROPN": [],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [],
+        "Somalia_PROPN": [
+            "Union::of::Islamic::Courts_PROPN",
+            "ARS_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Justice::and::Equality::Movement_PROPN",
+            "Sudan::Liberation::Movement_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Allied::Democratic::Forces_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": [
+            "CNDP_PROPN"
+        ]
+    },
+    "2008": {
+        "Afghanistan_PROPN": [
+            "Hizb-e-Islami_PROPN",
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_PROPN"
+        ],
+        "Angola_PROPN": [],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [
+            "palipehutu-fnl_PROPN"
+        ],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [],
+        "China_PROPN": [
+            "ETIM_PROPN"
+        ],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [
+            "CNDP_PROPN"
+        ],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "ULFA_PROPN",
+            "CPI-M_PROPN",
+            "Kashmir::Liberation::Front_PROPN"
+        ],
+        "Indonesia_PROPN": [],
+        "Iran_PROPN": [
+            "PJAK_PROPN"
+        ],
+        "Iraq_PROPN": [
+            "al-Mahdi::Army_PROPN",
+            "Islamic::State_PROPN"
+        ],
+        "Israel_PROPN": [
+            "PIJ_PROPN",
+            "Hamas_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN"
+        ],
+        "Nepal_PROPN": [],
+        "Niger_PROPN": [
+            "MNJ_PROPN"
+        ],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "Tehrik-e-Taliban_PROPN",
+            "Baluchistan::Liberation::Army_PROPN",
+            "BRA_PROPN"
+        ],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [],
+        "Rwanda_PROPN": [],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [],
+        "Somalia_PROPN": [
+            "Union::of::Islamic::Courts_PROPN",
+            "Al-Shabaab_PROPN",
+            "ARS_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Justice::and::Equality::Movement_PROPN",
+            "Sudan::Liberation::Movement_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [],
+        "Zaire_PROPN": [
+            "CNDP_PROPN"
+        ]
+    },
+    "2009": {
+        "Afghanistan_PROPN": [
+            "Hizb-e-Islami_PROPN",
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_PROPN"
+        ],
+        "Angola_PROPN": [
+            "FLEC_PROPN"
+        ],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "ULFA_PROPN",
+            "CPI-M_PROPN",
+            "NDFB_PROPN",
+            "Kashmir::Liberation::Front_PROPN"
+        ],
+        "Indonesia_PROPN": [],
+        "Iran_PROPN": [
+            "PJAK_PROPN"
+        ],
+        "Iraq_PROPN": [
+            "Islamic::State_PROPN"
+        ],
+        "Israel_PROPN": [
+            "PIJ_PROPN",
+            "Hamas_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [
+            "AQIM_PROPN"
+        ],
+        "Mauritania_PROPN": [],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "Karen::National::Union_PROPN"
+        ],
+        "Nepal_PROPN": [],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [
+            "Boko::Haram_PROPN"
+        ],
+        "Pakistan_PROPN": [
+            "Tehrik-e-Taliban_PROPN",
+            "Lashkar-e-Islam_PROPN",
+            "Baluchistan::Liberation::Army_PROPN",
+            "BRA_PROPN"
+        ],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN",
+            "Moro::Islamic::Liberation::Front_PROPN"
+        ],
+        "Russia_PROPN": [],
+        "Rwanda_PROPN": [
+            "FDLR_PROPN"
+        ],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [],
+        "Somalia_PROPN": [
+            "Hizbul::Islam_PROPN",
+            "Al-Shabaab_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [
+            "LTTE_PROPN"
+        ],
+        "Sudan_PROPN": [
+            "Justice::and::Equality::Movement_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [
+            "AQAP_PROPN"
+        ],
+        "Zaire_PROPN": []
+    },
+    "2010": {
+        "Afghanistan_PROPN": [
+            "Hizb-e-Islami_PROPN",
+            "Taleban_PROPN"
+        ],
+        "Algeria_PROPN": [
+            "AQIM_PROPN"
+        ],
+        "Angola_PROPN": [],
+        "Bosnia-Herzegovina_PROPN": [],
+        "Burundi_PROPN": [],
+        "Cambodia_PROPN": [],
+        "Central::African::Republic_PROPN": [],
+        "Chad_PROPN": [],
+        "China_PROPN": [],
+        "Colombia_PROPN": [
+            "ELN_PROPN",
+            "FARC_PROPN"
+        ],
+        "Comoros_PROPN": [],
+        "Congo_PROPN": [],
+        "Croatia_PROPN": [],
+        "Egypt_PROPN": [],
+        "Ethiopia_PROPN": [
+            "ONLF_PROPN",
+            "Oromo::Liberation::Front_PROPN"
+        ],
+        "Guatemala_PROPN": [],
+        "Guinea_PROPN": [],
+        "Haiti_PROPN": [],
+        "India_PROPN": [
+            "ULFA_PROPN",
+            "CPI-M_PROPN",
+            "NDFB_PROPN",
+            "Kashmir::Liberation::Front_PROPN"
+        ],
+        "Indonesia_PROPN": [],
+        "Iran_PROPN": [],
+        "Iraq_PROPN": [
+            "Islamic::State_PROPN"
+        ],
+        "Israel_PROPN": [
+            "PIJ_PROPN"
+        ],
+        "Ivory::Coast_PROPN": [],
+        "Liberia_PROPN": [],
+        "Macedonia_PROPN": [],
+        "Mali_PROPN": [],
+        "Mauritania_PROPN": [
+            "AQIM_PROPN"
+        ],
+        "Mexico_PROPN": [],
+        "Myanmar_PROPN": [
+            "DKBA_PROPN",
+            "Karen::National::Union_PROPN"
+        ],
+        "Nepal_PROPN": [],
+        "Niger_PROPN": [],
+        "Nigeria_PROPN": [],
+        "Pakistan_PROPN": [
+            "Tehrik-e-Taliban_PROPN",
+            "Lashkar-e-Islam_PROPN"
+        ],
+        "Papua::New::Guinea_PROPN": [],
+        "Philippines_PROPN": [
+            "Communist::Party::of::the::Philippines_PROPN",
+            "Abu::Sayyaf_PROPN"
+        ],
+        "Russia_PROPN": [],
+        "Rwanda_PROPN": [
+            "FDLR_PROPN"
+        ],
+        "Senegal_PROPN": [],
+        "Serbia_PROPN": [],
+        "Sierra::Leone_PROPN": [],
+        "Somalia_PROPN": [
+            "Hizbul::Islam_PROPN",
+            "Al-Shabaab_PROPN"
+        ],
+        "Sri::Lanka_PROPN": [],
+        "Sudan_PROPN": [
+            "Justice::and::Equality::Movement_PROPN",
+            "Sudan::People::'s::Liberation::Army_PROPN"
+        ],
+        "Tajikistan_PROPN": [
+            "Islamic::Movement::of::Uzbekistan_PROPN"
+        ],
+        "Turkey_PROPN": [
+            "PKK_PROPN"
+        ],
+        "Uganda_PROPN": [
+            "Allied::Democratic::Forces_PROPN",
+            "Lord::'s::Resistance::Army_PROPN"
+        ],
+        "United::Kingdom_PROPN": [],
+        "United::States::of::America_PROPN": [
+            "al-Qaida_PROPN"
+        ],
+        "Uzbekistan_PROPN": [],
+        "Yemen_PROPN": [
+            "AQAP_PROPN"
+        ],
+        "Zaire_PROPN": []
+    }
+}
