@@ -3,8 +3,8 @@
 
 import sys
 import numpy as np
-# import matplotlib  # For use on servers
-# matplotlib.use('Agg')
+import matplotlib  # For use on servers
+matplotlib.use('Agg')
 from gensim import models
 import pandas as pd
 import logging
@@ -61,9 +61,9 @@ def normalequation(data, target, lambda_value, vector_size):
 
 
 def load_embeddings(modelfile):
-    if modelfile.endswith('.txt.gz'):
+    if modelfile.endswith('.txt.gz') or modelfile.endswith('.txt'):
         model = models.Word2Vec.load_word2vec_format(modelfile, binary=False)
-    elif modelfile.endswith('.bin.gz'):
+    elif modelfile.endswith('.bin.gz') or modelfile.endswith('.bin'):
         model = models.Word2Vec.load_word2vec_format(modelfile, binary=True)
     else:
         # model = models.Word2Vec.load(modelfile)
@@ -185,6 +185,7 @@ def visualize(words, matrix, classes, fname=False, radius=None):
     seen = set()
 
     plot.clf()
+    circle = None
 
     if radius:
         circle = plot.Circle((xpositions[1], ypositions[1]), radius=radius, color='r',
@@ -205,13 +206,14 @@ def visualize(words, matrix, classes, fname=False, radius=None):
     plot.tick_params(axis='x', which='both', bottom=False, top=False, labelbottom=False)
     plot.tick_params(axis='y', which='both', left=False, right=False, labelleft=False)
     main_legend = plot.legend(loc='best')
-    # if radius:
-    #    hsphere_legend = plot.legend(loc=4, handles=[circle])
-    #    plot.gca().add_artist(hsphere_legend)
-    #    plot.gca().add_artist(main_legend)
+    if radius:
+        hsphere_legend = plot.legend(loc=4, handles=[circle])
+        plot.gca().add_artist(hsphere_legend)
+        plot.gca().add_artist(main_legend)
 
     if fname:
-        plot.savefig(fname + '.png', dpi=150, bbox_inches='tight')
+        fname = fname + '.png'
+        plot.savefig(fname, dpi=150, bbox_inches='tight')
     else:
         plot.show()
     plot.close()
