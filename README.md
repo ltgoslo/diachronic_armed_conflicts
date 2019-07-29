@@ -3,7 +3,7 @@ Diachronic armed conflicts prediction with news texts and word embeddings
 
 Code and data for the paper:
 
-*`One-to-X analogical reasoning on word embeddings: a case for diachronic armed conflict prediction from news texts`*
+[* One-to-X analogical reasoning on word embeddings: a case for diachronic armed conflict prediction from news texts`*](https://aclweb.org/anthology/papers/W/W19/W19-4724/) (in Proceedings of the 1st International Workshop on Computational Approaches to Historical Language Change, 2019)
 by Andrey Kutuzov, Erik Velldal and Lilja Øvrelid
 
 ## Embeddings models
